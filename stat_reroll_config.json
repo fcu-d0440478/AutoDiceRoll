@@ -1,9 +1,9 @@
 {
   "targets": {
-    "str": "X",
+    "str": "4",
     "dex": "X",
     "int": "4",
-    "luk": "4"
+    "luk": "X"
   },
   "stop_hotkey": "F12"
 }
